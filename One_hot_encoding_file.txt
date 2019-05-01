@@ -1,0 +1,6 @@
+User,Survey,Notification Status,Date/Time,App Version,current activity,homework,stress,diversity_issues
+ab1010@gmail.com,Daily Report,initiated,2019-04-28T19:33:19-0500,,,,,
+ab1010@gmail.com,Daily Report,received,2019-04-28T19:33:00-0500,,,,,
+ab1010@gmail.com,Daily Report,taken,2019-04-27T20:03:05-0500,iOS - 2.031,0,0,3,"011100000"
+ab1010@gmail.com,Daily Report,initiated,2019-04-27T20:02:04-0500,,,,,
+ab1010@gmail.com,Daily Report,received,2019-04-27T20:01:00-0500,,,,,
