@@ -6,7 +6,7 @@ int main (void) {
     char c;
     int count = 0;
     
-    FILE *fp = fopen("daily.csv", "r"); //Opens input to read
+    FILE *fp = fopen("one_hot_encoding_file.txt", "r"); //Opens input to read
     
     FILE *output = fopen("output.csv", "w"); //Opens output to write
     
